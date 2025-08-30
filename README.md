@@ -6,6 +6,7 @@ A robust web-based application designed to streamline student data management fo
 Add, edit, and delete student records with personal and academic details.
 
 🛠️ Tech Stack
+
 |  Layer     |  HTML, CSS      | 
 
 |  Backend   |  Django(Python) | 

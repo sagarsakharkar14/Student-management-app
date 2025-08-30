@@ -7,7 +7,9 @@ Add, edit, and delete student records with personal and academic details.
 
 🛠️ Tech Stack
 |  Layer     |  HTML, CSS      | 
+
 |  Backend   |  Django(Python) | 
+
 |  Database  |  SQLite         | 
 
 Installation

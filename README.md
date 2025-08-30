@@ -44,4 +44,4 @@ python manage.py runserver
 - Django Documentation
 
 📬 Contact
-Created by Sagar
+- Created by Sagar
